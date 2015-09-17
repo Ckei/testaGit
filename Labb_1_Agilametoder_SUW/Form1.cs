@@ -63,6 +63,7 @@ namespace Labb_1_Agilametoder_SUW
             contactListBox.Items.Clear();
         }
 
+        //Search for contacts
         private void button3_Click(object sender, EventArgs e)
         {
 
