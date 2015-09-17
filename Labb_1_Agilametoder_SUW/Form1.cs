@@ -64,7 +64,7 @@ namespace Labb_1_Agilametoder_SUW
         }
 
         //Search for contacts
-        private void button3_Click(object sender, EventArgs e)
+        private void searchButton_Click(object sender, EventArgs e)
         {
 
             string str = searchTextBox.Text;int i = 0;
