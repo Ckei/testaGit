@@ -43,7 +43,7 @@ namespace Labb_1_Agilametoder_SUW
             updateListItems();
         }
 
-        //Updates the contactlist
+        //Method for list updates
         private void updateListItems()
         {
             int i = 0; while (i < ContantList.Count)
